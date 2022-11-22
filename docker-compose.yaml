@@ -10,4 +10,5 @@ services:
     ports:
       - "1313:1313"
     volumes:
-      - .:/src
+      - /mnt/c/Code/cartwritedocsy:/src
+
