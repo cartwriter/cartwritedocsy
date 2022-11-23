@@ -1,5 +1,5 @@
 ---
-title: "Admins"
+title: "Admin Guide"
 date: 2022-11-22T21:51:04Z
 draft: false
 toc_root: true
