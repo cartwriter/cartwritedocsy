@@ -24,7 +24,7 @@ Created on: 01/01/2023
 
 Updated on: 
 
-{{<table “table table-striped table-bordered">}}
+{{<table table table-striped table-bordered>}}
 | Source                           | email addresses | Forwards To                | Used For                        |
 |----------------------------------|-----------------|----------------------------|---------------------------------|
 |                                  |                 |                            |                                 |
