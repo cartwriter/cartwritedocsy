@@ -17,7 +17,7 @@ ___
 
 ### 2. Join Today
 Click on the 'Join Today' button.
-![Step Two](/assets/join/CartwriteJoinProcess-002.png)
+![Step Two](../../../../../assets/join/CartwriteJoinProcess-002.png)
 ___
 </br>
 
