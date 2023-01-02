@@ -2,8 +2,6 @@
 title: "Join"
 date: 2023-01-01T21:10:15Z
 draft: false
-resources:
--src: "**Join*001.png"
 ---
 
 # Join Process
@@ -12,17 +10,14 @@ resources:
 To begin, open a web browser and go to https://carteretwriters.org/
 
 ### 1. Join Us
-
-{{< imgproc CartwriteJoinProcess-001 Fill "400x450" >}}
 Click on the 'Join Us' menu item to begin.
-{{< /imgproc >}}
-
+<img src="/content/en/users/the-basics/join/CartwriteJoinProcess-001.png" width="400" />
 ___
 </br>
 
 ### 2. Join Today
 Click on the 'Join Today' button.
-![Step Two](/static/static/users/the-basics/join/CartwriteJoinProcess-002.png)
+![Step Two](/assets/join/CartwriteJoinProcess-002.png)
 ___
 </br>
 
