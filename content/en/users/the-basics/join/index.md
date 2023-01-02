@@ -11,7 +11,7 @@ To begin, open a web browser and go to https://carteretwriters.org/
 
 ### 1. Join Us
 Click on the 'Join Us' menu item to begin.
-<img src="/content/en/users/the-basics/join/CartwriteJoinProcess-001.png" width="400" />
+<img src="CartwriteJoinProcess-001.png" width="900" />
 ___
 </br>
 
