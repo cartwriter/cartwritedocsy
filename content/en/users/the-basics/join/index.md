@@ -2,15 +2,21 @@
 title: "Join"
 date: 2023-01-01T21:10:15Z
 draft: false
+resources:
+-src: "**Join*001.png"
 ---
+
 # Join Process
 
 ## Getting Started
 To begin, open a web browser and go to https://carteretwriters.org/
 
 ### 1. Join Us
+
+{{< imgproc CartwriteJoinProcess-001 Fill "400x450" >}}
 Click on the 'Join Us' menu item to begin.
-![Step One](/static/static/users/the-basics/join/CartwriteJoinProcess-001.png)
+{{< /imgproc >}}
+
 ___
 </br>
 
@@ -82,7 +88,7 @@ ___
 
 ## Getting Help
 I problems are encountered, please send an email to support@carteretwriters.org and include:
-  1. What Step you were on when the problem surfaced.
+  1. On what step the problem surfaced.
   2. The email address being used.
   3. Any errors that displayed on the screen.
 
