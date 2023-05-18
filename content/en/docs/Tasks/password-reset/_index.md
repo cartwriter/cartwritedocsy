@@ -6,7 +6,7 @@
 - [Task 1: <Send Password Reset>](#task-1-password-reset)
 - [Task 2: <Check Email>](#task-2-check-email)
 - [Task 3: <Reset Password>](#task-3-reset-password)
-  [Task 4: <Login With New Password>(#task-4-login-with-new-password)
+- [Task 4: <Login With New Password>(#task-4-login-with-new-password)
 - [Troubleshooting](#troubleshooting)
 - [FAQ](#faq)
 - [Resources](#resources)
