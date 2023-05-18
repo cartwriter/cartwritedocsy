@@ -3,9 +3,10 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Task 1: <Task Name>](#task-1-task-name)
-- [Task 2: <Task Name>](#task-2-task-name)
-- [Task 3: <Task Name>](#task-3-task-name)
+- [Task 1: <Send Password Reset>](#task-1-password-reset)
+- [Task 2: <Check Email>](#task-2-check-email)
+- [Task 3: <Reset Password>](#task-3-reset-password)
+- [Task 4: <Login With New Password>(#task-4-login-with-new-password)
 - [Troubleshooting](#troubleshooting)
 - [FAQ](#faq)
 - [Resources](#resources)
