@@ -10,7 +10,7 @@ weight: 10
 ## Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Task 1: <Send Password Reset>](#task-1-password-reset)
+- [Task 1: Send Password Reset](#task-1-send-password-reset)
 - [Task 2: <Check Email>](#task-2-check-email)
 - [Task 3: <Reset Password>](#task-3-reset-password)
 - [Task 4: <Login With New Password>](#task-4-login-with-new-password)
@@ -28,7 +28,7 @@ This is what you'll need to accomplish these tasks:
 - Access to whatever email you use for Carteret Writers.
 - A new password you'd like to set.
 
-## Task 1: <Send Password Reset>
+## Task 1: Send Password Reset
 ### Objective
 Reset your password and login to Carteret Writers.
 
