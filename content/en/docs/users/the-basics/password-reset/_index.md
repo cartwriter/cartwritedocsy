@@ -5,8 +5,6 @@ draft: false
 weight: 10
 ---
 
-# Password Reset
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
