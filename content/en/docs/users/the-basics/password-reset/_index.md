@@ -11,9 +11,9 @@ weight: 10
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Task 1: Send Password Reset](#task-1-send-password-reset)
-- [Task 2: <Check Email>](#task-2-check-email)
-- [Task 3: <Reset Password>](#task-3-reset-password)
-- [Task 4: <Login With New Password>](#task-4-login-with-new-password)
+- [Task 2: Check Email](#task-2-check-email)
+- [Task 3: Reset Password](#task-3-reset-password)
+- [Task 4: Login With New Password](#task-4-login-with-new-password)
 - [Troubleshooting](#troubleshooting)
 - [FAQ](#faq)
 - [Resources](#resources)
@@ -48,12 +48,12 @@ You will see a confirmation screen if all went well.
 ![Confirmation](assets/ResetPasswordTask1Screenshot3.png)
 
 
-## Task 2: <Check Email>
+## Task 2: Check Email
 Check your email for the message that was just sent and click on the link. Take note of your username.
 
 ![Check Email](assets/ResetPasswordTask1Screenshot4.png)
 
-## Task 3: <Reset Password>
+## Task 3: Reset Password
 A web browser will open and suggest a strong password. The regenerate button will suggest a different strong password. Either accept a suggestion or enter your the password of your choosing. Then click the "Save Password" button.
 
 ![Set Password](assets/ResetPasswordTask1Screenshot5.png)
@@ -63,7 +63,7 @@ You will see a confirmation screen if all went well.
 ![Confirmation](assets/ResetPasswordTask1Screenshot6.png)
 
 
-## Task 4: <Login With New Password>
+## Task 4: Login With New Password
 Login using the new password just set and either the email address or the username that was noted in the email.
 
 ![Login](assets/ResetPasswordTask1Screenshot7.png)
